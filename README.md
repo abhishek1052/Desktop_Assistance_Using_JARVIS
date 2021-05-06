@@ -2,9 +2,9 @@
 
 Its a basic desktop assistant using jarvis 
 
-# dependency
-pyttsx3
-speech_recognition
+# dependency through pip
+pyttsx3,
+speech_recognition,
 wikipedia 
 
 
